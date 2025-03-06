@@ -1,0 +1,6 @@
+out.linux.amd64
+out.linux.arm64
+out.mac.arm
+out.mac.intel
+out.win.arm64.exe
+out.win.x86.exe
